@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<mat-toolbar color="primary">
+    <div class="Wrap">
+        <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+            <mat-icon>menu</mat-icon>
+        </button>
+        <span>My App</span>
+    </div>
+    <div class="Wrap">
+        <button matTooltip="Logout" (click)="logout()" mat-icon-button class="example-icon favorite-icon"
+            aria-label="Example icon-button with heart icon">
+            <i class="fa fa-sign-out"></i>
+        </button>
+        <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+           <mat-icon>share</mat-icon>
+        </button>
+    </div>
+
+</mat-toolbar>
