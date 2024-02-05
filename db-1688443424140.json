@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "user_name": "test@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "user_name": "test+one@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "user_name": "sri$2@gmail.com",
+      "password": "iPquRx8@Cs4jG",
+      "id": 3
+    },
+    {
+      "user_name": "hiiiii@test.com",
+      "password": "domain1234",
+      "id": 4
+    },
+    {
+      "user_name": "shri@gmail.com",
+      "password": "Test@123",
+      "id": 5
+    },
+    {
+      "user_name": "sgmsarathi@gmail.com",
+      "password": "sarathi71",
+      "id": 6
+    },
+    {
+      "user_name": "sriuu@gmail.com",
+      "password": "sri@232323",
+      "id": 7
+    },
+    {
+      "user_name": "hi@gmail.com",
+      "password": "12345678",
+      "id": 8
+    },
+    {
+      "user_name": "sri@gma.com",
+      "password": "1234rtyu",
+      "id": 9
+    },
+    {
+      "user_name": "sri@gmail.com",
+      "password": "1234rtyu",
+      "id": 10
+    },
+    {
+      "user_name": "jeevan@gmail.com",
+      "password": "12345ert",
+      "id": 11
+    },
+    {
+      "user_name": "malini@gmail.com",
+      "password": "12345678",
+      "id": 12
+    },
+    {
+      "user_name": "edf@gmail.com",
+      "password": "12345678",
+      "id": 13
+    },
+    {
+      "user_name": "wsed@g",
+      "password": "12qwaszx",
+      "id": 14
+    }
+  ],
+  "loginActivity": [
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-29T18:30:00.000Z",
+      "type": "Logout",
+      "id": 1
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T17:33:30.954Z",
+      "type": "Login",
+      "id": 2
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T17:35:08.088Z",
+      "type": "Logout",
+      "id": 3
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:10:19.695Z",
+      "type": "Login",
+      "id": 4
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:10:21.617Z",
+      "type": "Login",
+      "id": 5
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:10:22.416Z",
+      "type": "Login",
+      "id": 6
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:10:22.893Z",
+      "type": "Login",
+      "id": 7
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:10:44.201Z",
+      "type": "Login",
+      "id": 8
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:12:55.131Z",
+      "type": "Logout",
+      "id": 9
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:13:03.672Z",
+      "type": "Login",
+      "id": 10
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:15:43.776Z",
+      "type": "Login",
+      "id": 11
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-26T18:17:53.782Z",
+      "type": "Login",
+      "id": 12
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-30T06:45:51.286Z",
+      "type": "Login",
+      "id": 13
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-07-01T07:16:31.640Z",
+      "type": "Login",
+      "id": 14
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-07-01T07:32:08.571Z",
+      "type": "Login",
+      "id": 15
+    },
+    {
+      "name": "test@gmail.com",
+      "date": "2023-07-02T04:43:27.412Z",
+      "type": "Logout",
+      "id": 16
+    }
+  ]
+}

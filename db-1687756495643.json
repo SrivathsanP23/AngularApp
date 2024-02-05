@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "user_name": "test@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "user_name": "test+one@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "user_name": "sri$2@gmail.com",
+      "password": "iPquRx8@Cs4jG",
+      "id": 3
+    },
+    {
+      "user_name": "hiiiii@test.com",
+      "password": "domain1234",
+      "id": 4
+    },
+    {
+      "user_name": "shri@gmail.com",
+      "password": "Test@123",
+      "id": 5
+    },
+    {
+      "user_name": "sgmsarathi@gmail.com",
+      "password": "sarathi71",
+      "id": 6
+    },
+    {
+      "user_name": "sriuu@gmail.com",
+      "password": "sri@232323",
+      "id": 7
+    }
+  ],
+  "loginActivity": [
+    {
+      "name": "test@gmail.com",
+      "date": "2023-06-25T16:16:58.282Z",
+      "type": "Login",
+      "id": 1
+    },
+    {
+      "name": "sriuu@gmail.com",
+      "date": "2023-06-25T16:17:47.475Z",
+      "type": "Login",
+      "id": 2
+    }
+  ]
+}
